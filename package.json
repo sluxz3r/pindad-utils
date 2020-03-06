@@ -1,0 +1,14 @@
+{
+  "name": "pindad-utils",
+  "version": "1.0.3",
+  "description": "utils for pindad",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "pindad",
+  "license": "ISC",
+  "dependencies": {
+    "js-cookie": "^2.2.1"
+  }
+}
